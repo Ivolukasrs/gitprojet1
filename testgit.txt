@@ -1,3 +1,10 @@
-ddsdfwe
-nova atuaçlizaçao
-alteraçao
+1 git pull da branch principal
+2 gerar uma nova branch  a partir da principal
+git branch staging
+3 trabalhar e adicionar novas funcionalidades na nova branch que criou 
+git checkout staging
+4 finalizar trabalho  branch temporaria
+5 git checkaout na branch principal
+6 git pull
+7 merge ( unir) o cogigo da  temporaria 
+8 fazer git push da branch principal
